@@ -1,7 +1,7 @@
 # convexhull
 Implementation two-dimensional convex hull.
 
-usage:
+usage: 
 [hull,data]=convexhull(n)
 % input: n: number of 2d points
 % output: hull: points on the boundary of convex hull
